@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Xx-Danadar
-- 👀 I’m interested in coading and game designing
+- 👀 I’m interested in codeing and game designing
 - 🌱 I’m currently learning unity
